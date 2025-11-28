@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://residential-plumbing-lake-st-louis-mo.netlify.app/sitemap.xml
+Sitemap: https://residentialplumbinglakestlouismo.com/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
